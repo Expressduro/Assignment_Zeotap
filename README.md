@@ -1,8 +1,6 @@
-Here’s a detailed **README** file outlining the step-by-step procedure for installing dependencies, setting up the environment, and running the project in any IDE like Jupyter Notebook, Google Colab, or VS Code:
 
----
 
-# **README: Data Science Assignment Implementation**
+# **Data Science Assignment Implementation**
 
 ## **Overview**
 This project focuses on analyzing eCommerce transactions, deriving insights, building a lookalike model, and performing customer segmentation using clustering techniques. Follow the steps below to set up the environment and execute the project.
